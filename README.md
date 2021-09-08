@@ -1,2 +1,2 @@
 # dIFC
-Respository for deep imaging flow cytometry.
+Respository for deep imaging flow cytometry (dIFC).
