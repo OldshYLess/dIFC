@@ -1,9 +1,9 @@
 # dIFC
 Respository for deep imaging flow cytometry (dIFC).
 ## Installation
-### Please download and install the following packages
-
-### Please download and install the following packages
+### Clone this repo
+`git clone https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix`
+### Install PyTorch and other dependencies
 * PyTorch--------  v1.5.0
 * OpenCV---------  v3.4.1
 * Numpy----------  v1.19.2
