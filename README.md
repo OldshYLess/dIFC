@@ -10,7 +10,9 @@ Respository for deep imaging flow cytometry (dIFC).
 * PIL------------  v8.2.0
 
 ## Usage
+1. Direct testing with trained model
 
+2. Training a new model and testing
 
 ## Issues 
 If you encounter any problems, please file an issue along with a detailed description.
