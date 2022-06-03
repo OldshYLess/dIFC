@@ -21,3 +21,7 @@ Data_tst: 2 cell types. 8-bit.
 
 ## Issues 
 If you encounter any problems, please file an issue along with a detailed description.
+
+## References
+This repo is built up based on the following two repos:
+https://github.com/yoon28/unpaired_face_sr
