@@ -24,4 +24,5 @@ If you encounter any problems, please file an issue along with a detailed descri
 
 ## References
 This repo is built up based on the following two repos:
+https://github.com/jingyang2017/Face-and-Image-super-resolution
 https://github.com/yoon28/unpaired_face_sr
