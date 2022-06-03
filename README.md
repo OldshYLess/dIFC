@@ -14,5 +14,10 @@ Respository for deep imaging flow cytometry (dIFC).
 
 2. Training a new model and testing
 
+## Validation/Testing Dataset 
+Data_val: 2 cell types. 8-bit. 
+
+Data_tst: 2 cell types. 8-bit.
+
 ## Issues 
 If you encounter any problems, please file an issue along with a detailed description.
